@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277208950340",
+    "project_id": "ipo-tracker-da3ff",
+    "storage_bucket": "ipo-tracker-da3ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277208950340:android:740876d2d0570e3e31fe11",
+        "android_client_info": {
+          "package_name": "ipotracker.ipopremium.sme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEerOOj7Z6WcmaKPmVbHMS9_RCNzWGsA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
